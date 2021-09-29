@@ -1,4 +1,3 @@
-from werkzeug.utils import secure_filename
 from datetime import date, datetime
 from sqlalchemy import desc
 import base64
