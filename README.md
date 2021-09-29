@@ -22,4 +22,4 @@ Run the bootstrap file to start Flask. Best done in a virtual environment.
 7. Report posts and replies (for admin to review)
 8. Delete posts and replies (for validated user)
 9. User login
-10. File upload to server (including unique name generation)
+10. File upload to server (including unique name generation and conversion to base64)
