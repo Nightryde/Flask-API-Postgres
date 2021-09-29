@@ -19,7 +19,7 @@ Run the bootstrap file to start Flask. Best done in a virtual environment.
 4. Get new posts (recent 10 posts, their replies, and their images)
 5. Get post Category (recent 10 posts for a category, their replies, and their images)
 6. Get post detail (post, its replies, and its image)
-7. Report posts and replies for admin to review
+7. Report posts and replies (for admin to review)
 8. Delete posts and replies (for validated user)
 9. User login
-10. File upload to server
+10. File upload to server (including unique name generation)
