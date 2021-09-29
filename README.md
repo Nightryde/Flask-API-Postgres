@@ -8,3 +8,5 @@ This is a Flask API that is used to get data from PostgreSQL
 3. marshmallow
 
 Run the bootstrap file to start Flask.
+
+Best done in a virtual environment.
